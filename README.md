@@ -105,7 +105,7 @@
   </nav>
 
   <section>
-    <h2>Obiettivo</h2>
+    <h2>Obiettivo professionale</h2>
     <p>
       Sono laureato in Scienze Geologiche e possiedo una solida preparazione in geotecnica, GIS e rilevamento geologico, 
       che ho arricchito con competenze trasversali in informatica, sicurezza digitale e programmazione (Python, JavaScript). 
