@@ -125,14 +125,7 @@
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=uxxsephirion@gmail.com" target="_blank" rel="noopener noreferrer">📧 Gmail</a> |
       <a href="CV.Armando%20Giordano.pdf" download>📄 Scarica il CV</a>
     </p>
-  </section>
-
-  <section>
-    <h2>I miei lavori universitari</h2>
-    <p>
-        Qui puoi trovare i miei progetti e lavori accademici.
-    </p>
-  </section>
+ 
 
   <!-- Esecuzione nascosta dello script di protezione -->
   <script>
